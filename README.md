@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailaib&label=Profile%20views&color=0e75b6&style=flat" alt="ismailaib" /> </p>
 
-- 🔭 I’m currently working on [Robotics Project](https://github.com/ismailaib/Agrobot)
+- 🔭 I’m currently working on [ML Project](https://github.com/ismailaib/Agrobot)
 
 - 🌱 I’m currently learning **Deep learning**
 
