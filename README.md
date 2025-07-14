@@ -1,5 +1,5 @@
 <h1 align="center">Ismail Aitbouhmad</h1>
-<h3 align="center">Frontend Engineer | UI/UX Specialist | Next.js Enthusiast</h3>
+<h3 align="center">Development Team Lead | Frontend Engineer | UI/UX Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ismailaib&label=Profile%20Views&color=0e75b6&style=flat" alt="ismailaib" />
@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a frontend developer focused on building scalable, accessible, and performant web applications using **Next.js**, **React**, and modern UI/UX practices.
+I'm a Development Team Lead at **AGRI 4.0**, passionate about leading cross-functional teams and building scalable, accessible, and performant web applications using **Next.js**, **React**, and modern UI/UX practices.
 
-- 📚 Exploring system design, machine learning, and advanced frontend architecture
+- 📚 Exploring system design, team leadership, and advanced frontend architecture
 - 🛠️ Building production-ready interfaces with responsive design and maintainable code
 - 💬 Open to collaboration in React, Next.js, TypeScript, and API design
 - 📫 Contact: **ismailaitbouhmad@gmail.com**
@@ -37,6 +37,7 @@ I'm a frontend developer focused on building scalable, accessible, and performan
 
 ### 🧪 Core Competencies
 
+- **Team Leadership & Project Management**  
 - **Component-Driven UI Development**  
 - **SSR & SSG with Next.js**  
 - **RESTful & Async API Integration**  
@@ -46,16 +47,6 @@ I'm a frontend developer focused on building scalable, accessible, and performan
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailaib&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailaib&theme=github_dark" />
-</p>
-
----
-
 > *“Good code is its own best documentation.” — Steve McConnell*
 
 ---
-
