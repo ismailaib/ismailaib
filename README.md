@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Development Team Lead at **AGRI 4.0**, passionate about leading cross-functional teams and building scalable, accessible, and performant web applications using **Next.js**, **React**, and modern UI/UX practices.
+I'm a Development Team Lead passionate about leading cross-functional teams and building scalable, accessible, and performant web applications using **Next.js**, **React**, and modern UI/UX practices.
 
 - 📚 Exploring system design, team leadership, and advanced frontend architecture
 - 🛠️ Building production-ready interfaces with responsive design and maintainable code
