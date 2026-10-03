@@ -1,4 +1,4 @@
-<h1 align="center">Ismail Aitbouhmad</h1>
+<h1 align="center">Ismail Ait bouhmad</h1>
 <h3 align="center">Development Team Lead | Frontend Engineer | UI/UX Specialist</h3>
 
 <p align="center">
