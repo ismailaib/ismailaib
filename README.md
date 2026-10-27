@@ -11,10 +11,10 @@
 
 I'm a Development Team Lead passionate about leading cross-functional teams and building scalable, accessible, and performant web applications using **Next.js**, **React**, and modern UI/UX practices.
 
-- 📚 Exploring system design, team leadership, and advanced frontend architecture
-- 🛠️ Building production-ready interfaces with responsive design and maintainable code
-- 💬 Open to collaboration in React, Next.js, TypeScript, and API design
-- 📫 Contact: **ismailaitbouhmad@gmail.com**
+- Exploring system design, team leadership, and advanced frontend architecture
+- Building production-ready interfaces with responsive design and maintainable code
+- Open to collaboration in React, Next.js, TypeScript, and API design
+- Contact: **ismailaitbouhmad@gmail.com**
 
 ---
 
