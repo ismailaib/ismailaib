@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a Development Team Lead passionate about leading cross-functional teams and building scalable, accessible, and performant web applications using **Next.js**, **React**, and modern UI/UX practices.
 
@@ -18,7 +18,7 @@ I'm a Development Team Lead passionate about leading cross-functional teams and 
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
@@ -35,7 +35,7 @@ I'm a Development Team Lead passionate about leading cross-functional teams and 
 
 ---
 
-### 🧪 Core Competencies
+### Core Competencies
 
 - **Team Leadership & Project Management**  
 - **Component-Driven UI Development**  
